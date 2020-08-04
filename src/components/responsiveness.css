@@ -1,0 +1,23 @@
+@media only screen and (max-width: 1114px) {
+  img {
+    width: 120px;
+  }
+}
+
+@media only screen and (max-width: 942px) {
+  img {
+    width: 100px;
+  }
+}
+
+@media only screen and (max-width: 817) {
+  img {
+    width: 40px;
+  }
+}
+
+@media only screen and (max-width: 411) {
+  img {
+    width: 10px;
+  }
+}
